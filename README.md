@@ -24,9 +24,9 @@ The model uses structured features and outputs both the **predicted label** and 
 ## 📂 File Structure
 
 ```bash
+── README.md   
 📁 AI-vs-Human-Classifier/
 │
 ├── DL_aivshuman.ipynb          # Jupyter notebook for ANN training and evaluation
 ├── app.py                      # Feature engineering and grammar checks ,Streamlit app for deployment
-├── README.md                   # Project documentation
 └── combined_datasets/            # Human and AI-generated text datasets
